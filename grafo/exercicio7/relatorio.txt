@@ -1,0 +1,3 @@
+Tempo de execucao com 20 cidades: 0.000046 seg
+
+Tempo de execucao com 100 cidades: 0.021876 seg
